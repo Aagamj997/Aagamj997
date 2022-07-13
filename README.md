@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**Aagamj997/Aagamj997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there 👋
+I am Aagam Jain 
 
 - 🔭 I’m currently working on Learning about Programming 
 - 🌱 I’m currently learning pfff!! definition of programming ofcourse
