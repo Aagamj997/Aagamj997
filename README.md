@@ -1,4 +1,4 @@
-# 💫 About Me :
+# 💫 About Me  :
 🔭 I’m currently working on Learning about Programming<br>👯 I’m looking to collaborate on any project for my knowledge and skills<br>🤝 I’m looking for help with learning definition of programming<br>🌱 I’m currently learning 😵 ("probably the definitions") 😭<br>💬 Ask me about anything but not theory
 
 
